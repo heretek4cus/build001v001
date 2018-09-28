@@ -1,0 +1,32 @@
+{
+    "dev": {
+        "username": "v2utech_devadmin",
+        "password": "keepeasy",
+        "database": "v2utech_build001",
+        "host": "108.167.180.198",
+        "port": 3306,
+        "dialect": "mysql",
+        "email":{
+            "user": "metteyya.it@gmail.com",
+            "pass": "newPwd@M",
+            "imap": {
+                "host": "imap.gmail.com",
+                "port": 993,
+                "secure": true
+            },
+            "smtp": {
+                "host": "smtp.gmail.com",
+                "ssl": true
+            }
+        }
+    },
+    "test": {
+        "username": "v2utech_devadmin",
+        "password": "keepeasy",
+        "database": "v2utech_build001",
+        "host": "108.167.180.198",
+        "port": 3000,
+        "dialect": "mysql"
+    }
+
+}

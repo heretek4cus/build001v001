@@ -1,0 +1,17 @@
+{
+    "Email":{
+            "user": "metteyya.it@gmail.com",
+            "pass": "*******"
+
+            },
+    "aws":{
+        "AWS_ACCESS_KEY_ID" : "AKIAJDX2THB3PEQKNQ5A",
+        "AWS_SECRET_ACCESS_KEY": "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",
+        "S3_BUCKET": "https://s3.console.aws.amazon.com/s3/buckets/cgdev-tek4cus-ram/?region=us-east-2&tab=overview",
+        "BUCKET_NAME":"cgdev-tek4cus-ram",
+        "REGION": "region=us-east-2",
+        "DOWNLOAD_LINK":"https://s3-us-west-1.amazonaws.com/cgdev-tek4cus-ram/"
+    }
+    
+
+}
